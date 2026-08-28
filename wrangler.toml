@@ -1,0 +1,7 @@
+# نشر أنيس على Cloudflare Workers (أصول ساكنة — بلا أي كود خادم):
+# مجلد docs/ يُرفع كما هو، و_headers فيه تضبط تخزين الصوتيات الأبدي.
+name = "anees"
+compatibility_date = "2026-08-01"
+
+[assets]
+directory = "./docs"
