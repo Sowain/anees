@@ -1,0 +1,6 @@
+data/tts-cache/
+tools/__pycache__/
+data/tts-cache-eleven/
+node_modules/
+.output/
+.tanstack/
