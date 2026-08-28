@@ -28,6 +28,7 @@
 
 - [دستور الصناعة](docs/CLAUDE.md)
 - [دستور العلامة](docs/brand-constitution.md)
+- [منهجية الدرس](docs/lesson-methodology.md) — الإطار الثماني، التحسينات الثلاث، منهجيات الصفوف ١–٣ / ٤–٦ / ٧–٩ / ١٠–١٢، وخصوصية كل مادة
 - [مسودة الخصوصية](docs/privacy-policy-draft.md)
 
 ## مبادئ لا تُمس
